@@ -22,3 +22,15 @@ C:\Users\azazellio\Desktop\CoffeeShopMVVM-master\CoffeeShop.DAL.Abstract\obj\Deb
 C:\Users\azazellio\Desktop\CoffeeShopMVVM-master\CoffeeShop.DAL.Abstract\obj\Debug\netstandard2.0\CoffeeShop.DAL.Abstract.csproj.CopyComplete
 C:\Users\azazellio\Desktop\CoffeeShopMVVM-master\CoffeeShop.DAL.Abstract\obj\Debug\netstandard2.0\CoffeeShop.DAL.Abstract.dll
 C:\Users\azazellio\Desktop\CoffeeShopMVVM-master\CoffeeShop.DAL.Abstract\obj\Debug\netstandard2.0\CoffeeShop.DAL.Abstract.pdb
+C:\Users\azazellio\Desktop\CoffeeShopMVVM\CoffeeShop.DAL.Abstract\bin\Debug\netstandard2.0\CoffeeShop.DAL.Abstract.deps.json
+C:\Users\azazellio\Desktop\CoffeeShopMVVM\CoffeeShop.DAL.Abstract\bin\Debug\netstandard2.0\CoffeeShop.DAL.Abstract.dll
+C:\Users\azazellio\Desktop\CoffeeShopMVVM\CoffeeShop.DAL.Abstract\bin\Debug\netstandard2.0\CoffeeShop.DAL.Abstract.pdb
+C:\Users\azazellio\Desktop\CoffeeShopMVVM\CoffeeShop.DAL.Abstract\bin\Debug\netstandard2.0\CoffeeShop.DAO.Abstract.dll
+C:\Users\azazellio\Desktop\CoffeeShopMVVM\CoffeeShop.DAL.Abstract\bin\Debug\netstandard2.0\CoffeeShop.DAO.Abstract.pdb
+C:\Users\azazellio\Desktop\CoffeeShopMVVM\CoffeeShop.DAL.Abstract\obj\Debug\netstandard2.0\CoffeeShop.DAL.Abstract.csprojAssemblyReference.cache
+C:\Users\azazellio\Desktop\CoffeeShopMVVM\CoffeeShop.DAL.Abstract\obj\Debug\netstandard2.0\CoffeeShop.DAL.Abstract.AssemblyInfoInputs.cache
+C:\Users\azazellio\Desktop\CoffeeShopMVVM\CoffeeShop.DAL.Abstract\obj\Debug\netstandard2.0\CoffeeShop.DAL.Abstract.AssemblyInfo.cs
+C:\Users\azazellio\Desktop\CoffeeShopMVVM\CoffeeShop.DAL.Abstract\obj\Debug\netstandard2.0\CoffeeShop.DAL.Abstract.csproj.CoreCompileInputs.cache
+C:\Users\azazellio\Desktop\CoffeeShopMVVM\CoffeeShop.DAL.Abstract\obj\Debug\netstandard2.0\CoffeeShop.DAL.Abstract.csproj.CopyComplete
+C:\Users\azazellio\Desktop\CoffeeShopMVVM\CoffeeShop.DAL.Abstract\obj\Debug\netstandard2.0\CoffeeShop.DAL.Abstract.dll
+C:\Users\azazellio\Desktop\CoffeeShopMVVM\CoffeeShop.DAL.Abstract\obj\Debug\netstandard2.0\CoffeeShop.DAL.Abstract.pdb

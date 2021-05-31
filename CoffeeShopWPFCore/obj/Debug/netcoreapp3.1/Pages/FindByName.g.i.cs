@@ -117,7 +117,7 @@ namespace CoffeeshopWPF.Pages {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/CoffeeShopWPFCore;V1.0.0.0;component/pages/findbyname.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/CoffeeShopWPFCore;component/pages/findbyname.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Pages\FindByName.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

@@ -16,3 +16,12 @@ C:\Users\azazellio\Desktop\CoffeeShopMVVM-master\CoffeeShop.ViewModels.Abstract\
 C:\Users\azazellio\Desktop\CoffeeShopMVVM-master\CoffeeShop.ViewModels.Abstract\obj\Debug\netstandard2.0\CoffeeShop.ViewModels.Abstract.csproj.CoreCompileInputs.cache
 C:\Users\azazellio\Desktop\CoffeeShopMVVM-master\CoffeeShop.ViewModels.Abstract\obj\Debug\netstandard2.0\CoffeeShop.ViewModels.Abstract.dll
 C:\Users\azazellio\Desktop\CoffeeShopMVVM-master\CoffeeShop.ViewModels.Abstract\obj\Debug\netstandard2.0\CoffeeShop.ViewModels.Abstract.pdb
+C:\Users\azazellio\Desktop\CoffeeShopMVVM\CoffeeShop.ViewModels.Abstract\bin\Debug\netstandard2.0\CoffeeShop.ViewModels.Abstract.deps.json
+C:\Users\azazellio\Desktop\CoffeeShopMVVM\CoffeeShop.ViewModels.Abstract\bin\Debug\netstandard2.0\CoffeeShop.ViewModels.Abstract.dll
+C:\Users\azazellio\Desktop\CoffeeShopMVVM\CoffeeShop.ViewModels.Abstract\bin\Debug\netstandard2.0\CoffeeShop.ViewModels.Abstract.pdb
+C:\Users\azazellio\Desktop\CoffeeShopMVVM\CoffeeShop.ViewModels.Abstract\obj\Debug\netstandard2.0\CoffeeShop.ViewModels.Abstract.csprojAssemblyReference.cache
+C:\Users\azazellio\Desktop\CoffeeShopMVVM\CoffeeShop.ViewModels.Abstract\obj\Debug\netstandard2.0\CoffeeShop.ViewModels.Abstract.AssemblyInfoInputs.cache
+C:\Users\azazellio\Desktop\CoffeeShopMVVM\CoffeeShop.ViewModels.Abstract\obj\Debug\netstandard2.0\CoffeeShop.ViewModels.Abstract.AssemblyInfo.cs
+C:\Users\azazellio\Desktop\CoffeeShopMVVM\CoffeeShop.ViewModels.Abstract\obj\Debug\netstandard2.0\CoffeeShop.ViewModels.Abstract.csproj.CoreCompileInputs.cache
+C:\Users\azazellio\Desktop\CoffeeShopMVVM\CoffeeShop.ViewModels.Abstract\obj\Debug\netstandard2.0\CoffeeShop.ViewModels.Abstract.dll
+C:\Users\azazellio\Desktop\CoffeeShopMVVM\CoffeeShop.ViewModels.Abstract\obj\Debug\netstandard2.0\CoffeeShop.ViewModels.Abstract.pdb

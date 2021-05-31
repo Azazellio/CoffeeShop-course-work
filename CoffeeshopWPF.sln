@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeshopWPF", "CoffeeshopWPF\CoffeeshopWPF.csproj", "{ABB2E8AB-C3A7-4FCA-894A-2517F12BCFCB}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoffeeShop.DAL.Impl", "CoffeeShop.DAL.Impl\CoffeeShop.DAL.Impl.csproj", "{20C8C0D0-57BB-46F8-9D26-378EB79621E8}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoffeeShop.DAL.Abstract", "CoffeeShop.DAL.Abstract\CoffeeShop.DAL.Abstract.csproj", "{40B9EC27-1862-4D21-AE28-D2DFB899A6DD}"
@@ -21,7 +19,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoffeeShop.DAO.Abstract", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeShop.BL.Impl", "CoffeeShop.BL.Impl\CoffeeShop.BL.Impl.csproj", "{81DBF237-B7C6-4130-9BC7-48E07AFF33D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeShopWPFCore", "CoffeeShopWPFCore\CoffeeShopWPFCore.csproj", "{C7F7D38A-A6DD-4A0B-B0A7-A4254D01ABDF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoffeeShopWPFCore", "CoffeeShopWPFCore\CoffeeShopWPFCore.csproj", "{C7F7D38A-A6DD-4A0B-B0A7-A4254D01ABDF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +27,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{ABB2E8AB-C3A7-4FCA-894A-2517F12BCFCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{ABB2E8AB-C3A7-4FCA-894A-2517F12BCFCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{ABB2E8AB-C3A7-4FCA-894A-2517F12BCFCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{ABB2E8AB-C3A7-4FCA-894A-2517F12BCFCB}.Release|Any CPU.Build.0 = Release|Any CPU
 		{20C8C0D0-57BB-46F8-9D26-378EB79621E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{20C8C0D0-57BB-46F8-9D26-378EB79621E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{20C8C0D0-57BB-46F8-9D26-378EB79621E8}.Release|Any CPU.ActiveCfg = Release|Any CPU

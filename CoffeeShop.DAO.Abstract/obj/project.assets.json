@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\azazellio\\Desktop\\CoffeeShopMVVM-master\\CoffeeShop.DAO.Abstract\\CoffeeShop.DAO.Abstract.csproj",
+      "projectUniqueName": "C:\\Users\\azazellio\\Desktop\\CoffeeShopMVVM\\CoffeeShop.DAO.Abstract\\CoffeeShop.DAO.Abstract.csproj",
       "projectName": "CoffeeShop.DAO.Abstract",
-      "projectPath": "C:\\Users\\azazellio\\Desktop\\CoffeeShopMVVM-master\\CoffeeShop.DAO.Abstract\\CoffeeShop.DAO.Abstract.csproj",
+      "projectPath": "C:\\Users\\azazellio\\Desktop\\CoffeeShopMVVM\\CoffeeShop.DAO.Abstract\\CoffeeShop.DAO.Abstract.csproj",
       "packagesPath": "C:\\Users\\azazellio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\azazellio\\Desktop\\CoffeeShopMVVM-master\\CoffeeShop.DAO.Abstract\\obj\\",
+      "outputPath": "C:\\Users\\azazellio\\Desktop\\CoffeeShopMVVM\\CoffeeShop.DAO.Abstract\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\azazellio\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F/Kxrw2sYjzy6Q9Gc+CDmA4gLUGPI3rKQQgyGng6CWKmqBY/hEgcxUXJxkM5ub9axZpdGdb088dgxZF+ccL11g==",
+  "dgSpecHash": "KORGWfy0CEouWeqpJhb7pv+enzXKXz4hJwhfiiV2QC6viB8BH5oZ5Qn9ia+zPI6YFm5Gcsz9Mj0ht2wwN9Z11Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\azazellio\\Desktop\\CoffeeShopMVVM-master\\CoffeeShop.DAO.Impl\\CoffeeShop.DAO.Impl.csproj",
+  "projectFilePath": "C:\\Users\\azazellio\\Desktop\\CoffeeShopMVVM\\CoffeeShop.DAO.Impl\\CoffeeShop.DAO.Impl.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\azazellio\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\azazellio\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

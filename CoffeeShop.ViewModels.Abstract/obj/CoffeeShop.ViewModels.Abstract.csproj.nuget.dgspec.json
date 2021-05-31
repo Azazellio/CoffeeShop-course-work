@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\azazellio\\Desktop\\CoffeeShopMVVM-master\\CoffeeShop.ViewModels.Abstract\\CoffeeShop.ViewModels.Abstract.csproj": {}
+    "C:\\Users\\azazellio\\Desktop\\CoffeeShopMVVM\\CoffeeShop.ViewModels.Abstract\\CoffeeShop.ViewModels.Abstract.csproj": {}
   },
   "projects": {
-    "C:\\Users\\azazellio\\Desktop\\CoffeeShopMVVM-master\\CoffeeShop.ViewModels.Abstract\\CoffeeShop.ViewModels.Abstract.csproj": {
+    "C:\\Users\\azazellio\\Desktop\\CoffeeShopMVVM\\CoffeeShop.ViewModels.Abstract\\CoffeeShop.ViewModels.Abstract.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\azazellio\\Desktop\\CoffeeShopMVVM-master\\CoffeeShop.ViewModels.Abstract\\CoffeeShop.ViewModels.Abstract.csproj",
+        "projectUniqueName": "C:\\Users\\azazellio\\Desktop\\CoffeeShopMVVM\\CoffeeShop.ViewModels.Abstract\\CoffeeShop.ViewModels.Abstract.csproj",
         "projectName": "CoffeeShop.ViewModels.Abstract",
-        "projectPath": "C:\\Users\\azazellio\\Desktop\\CoffeeShopMVVM-master\\CoffeeShop.ViewModels.Abstract\\CoffeeShop.ViewModels.Abstract.csproj",
+        "projectPath": "C:\\Users\\azazellio\\Desktop\\CoffeeShopMVVM\\CoffeeShop.ViewModels.Abstract\\CoffeeShop.ViewModels.Abstract.csproj",
         "packagesPath": "C:\\Users\\azazellio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\azazellio\\Desktop\\CoffeeShopMVVM-master\\CoffeeShop.ViewModels.Abstract\\obj\\",
+        "outputPath": "C:\\Users\\azazellio\\Desktop\\CoffeeShopMVVM\\CoffeeShop.ViewModels.Abstract\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\azazellio\\AppData\\Roaming\\NuGet\\NuGet.Config",

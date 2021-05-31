@@ -141,7 +141,7 @@ namespace CoffeeshopWPF.Pages {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/CoffeeShopWPFCore;component/pages/findbydate.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/CoffeeShopWPFCore;V1.0.0.0;component/pages/findbydate.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Pages\FindByDate.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

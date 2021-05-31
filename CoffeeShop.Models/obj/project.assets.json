@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\azazellio\\Desktop\\CoffeeShopMVVM-master\\CoffeeShop.Models\\CoffeeShop.Models.csproj",
+      "projectUniqueName": "C:\\Users\\azazellio\\Desktop\\CoffeeShopMVVM\\CoffeeShop.Models\\CoffeeShop.Models.csproj",
       "projectName": "CoffeeShop.Models",
-      "projectPath": "C:\\Users\\azazellio\\Desktop\\CoffeeShopMVVM-master\\CoffeeShop.Models\\CoffeeShop.Models.csproj",
+      "projectPath": "C:\\Users\\azazellio\\Desktop\\CoffeeShopMVVM\\CoffeeShop.Models\\CoffeeShop.Models.csproj",
       "packagesPath": "C:\\Users\\azazellio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\azazellio\\Desktop\\CoffeeShopMVVM-master\\CoffeeShop.Models\\obj\\",
+      "outputPath": "C:\\Users\\azazellio\\Desktop\\CoffeeShopMVVM\\CoffeeShop.Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\azazellio\\AppData\\Roaming\\NuGet\\NuGet.Config",

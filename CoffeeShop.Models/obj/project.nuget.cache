@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3UHcQ8ZKlONklsd18+yx7xMVgJmBjf02PBLvvezvw3STmUDWg/UXF1GGjOaHrHsG/BpNfQkRUx1DqdWWTZeX8w==",
+  "dgSpecHash": "kY94Nb9qBUqmn0BKJC4ZU4fYzsY9grmhFkfparHiyAE1h4Jiz5A1WM6ZSBtGGQlFNzze0N/pbppHJyWwn6cmFg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\azazellio\\Desktop\\CoffeeShopMVVM-master\\CoffeeShop.Models\\CoffeeShop.Models.csproj",
+  "projectFilePath": "C:\\Users\\azazellio\\Desktop\\CoffeeShopMVVM\\CoffeeShop.Models\\CoffeeShop.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\azazellio\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\azazellio\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\azazellio\Desktop\CoffeeShopMVVM-master\CoffeeShopWPFCore\obj\Debug\netcoreapp3.1\
+C:\Users\azazellio\Desktop\CoffeeShopMVVM\CoffeeShopWPFCore\obj\Debug\netcoreapp3.1\
 CoffeeShopWPFCore
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
-C:\Users\azazellio\Desktop\CoffeeShopMVVM-master\CoffeeShopWPFCore\App.xaml
+C:\Users\azazellio\Desktop\CoffeeShopMVVM\CoffeeShopWPFCore\App.xaml
 32132633752
 
 7876998446
-219-969176760
+219-1002348936
 MainWindow.xaml;Pages\FindByDate.xaml;Pages\FindByName.xaml;
 
-True
+False
 

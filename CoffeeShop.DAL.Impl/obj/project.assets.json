@@ -6351,11 +6351,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\azazellio\\Desktop\\CoffeeShopMVVM-master\\CoffeeShop.DAL.Impl\\CoffeeShop.DAL.Impl.csproj",
+      "projectUniqueName": "C:\\Users\\azazellio\\Desktop\\CoffeeShopMVVM\\CoffeeShop.DAL.Impl\\CoffeeShop.DAL.Impl.csproj",
       "projectName": "CoffeeShop.DAL.Impl",
-      "projectPath": "C:\\Users\\azazellio\\Desktop\\CoffeeShopMVVM-master\\CoffeeShop.DAL.Impl\\CoffeeShop.DAL.Impl.csproj",
+      "projectPath": "C:\\Users\\azazellio\\Desktop\\CoffeeShopMVVM\\CoffeeShop.DAL.Impl\\CoffeeShop.DAL.Impl.csproj",
       "packagesPath": "C:\\Users\\azazellio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\azazellio\\Desktop\\CoffeeShopMVVM-master\\CoffeeShop.DAL.Impl\\obj\\",
+      "outputPath": "C:\\Users\\azazellio\\Desktop\\CoffeeShopMVVM\\CoffeeShop.DAL.Impl\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\azazellio\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6372,17 +6372,17 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "C:\\Users\\azazellio\\Desktop\\CoffeeShopMVVM-master\\CoffeeShop.DAL.Abstract\\CoffeeShop.DAL.Abstract.csproj": {
-              "projectPath": "C:\\Users\\azazellio\\Desktop\\CoffeeShopMVVM-master\\CoffeeShop.DAL.Abstract\\CoffeeShop.DAL.Abstract.csproj"
+            "C:\\Users\\azazellio\\Desktop\\CoffeeShopMVVM\\CoffeeShop.DAL.Abstract\\CoffeeShop.DAL.Abstract.csproj": {
+              "projectPath": "C:\\Users\\azazellio\\Desktop\\CoffeeShopMVVM\\CoffeeShop.DAL.Abstract\\CoffeeShop.DAL.Abstract.csproj"
             },
-            "C:\\Users\\azazellio\\Desktop\\CoffeeShopMVVM-master\\CoffeeShop.DAO.Abstract\\CoffeeShop.DAO.Abstract.csproj": {
-              "projectPath": "C:\\Users\\azazellio\\Desktop\\CoffeeShopMVVM-master\\CoffeeShop.DAO.Abstract\\CoffeeShop.DAO.Abstract.csproj"
+            "C:\\Users\\azazellio\\Desktop\\CoffeeShopMVVM\\CoffeeShop.DAO.Abstract\\CoffeeShop.DAO.Abstract.csproj": {
+              "projectPath": "C:\\Users\\azazellio\\Desktop\\CoffeeShopMVVM\\CoffeeShop.DAO.Abstract\\CoffeeShop.DAO.Abstract.csproj"
             },
-            "C:\\Users\\azazellio\\Desktop\\CoffeeShopMVVM-master\\CoffeeShop.DAO.Impl\\CoffeeShop.DAO.Impl.csproj": {
-              "projectPath": "C:\\Users\\azazellio\\Desktop\\CoffeeShopMVVM-master\\CoffeeShop.DAO.Impl\\CoffeeShop.DAO.Impl.csproj"
+            "C:\\Users\\azazellio\\Desktop\\CoffeeShopMVVM\\CoffeeShop.DAO.Impl\\CoffeeShop.DAO.Impl.csproj": {
+              "projectPath": "C:\\Users\\azazellio\\Desktop\\CoffeeShopMVVM\\CoffeeShop.DAO.Impl\\CoffeeShop.DAO.Impl.csproj"
             },
-            "C:\\Users\\azazellio\\Desktop\\CoffeeShopMVVM-master\\CoffeeShop.Models\\CoffeeShop.Models.csproj": {
-              "projectPath": "C:\\Users\\azazellio\\Desktop\\CoffeeShopMVVM-master\\CoffeeShop.Models\\CoffeeShop.Models.csproj"
+            "C:\\Users\\azazellio\\Desktop\\CoffeeShopMVVM\\CoffeeShop.Models\\CoffeeShop.Models.csproj": {
+              "projectPath": "C:\\Users\\azazellio\\Desktop\\CoffeeShopMVVM\\CoffeeShop.Models\\CoffeeShop.Models.csproj"
             }
           }
         }

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "o2CbWJo3pw97Qdt1bMBhybRm6LqGa/j0Pxhf5w48CFO5+16CadNaVy3AKd5F49orC2XgCgRrxcK6BFCHKuLDMg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\azazellio\\Desktop\\CoffeeShopMVVM-master\\CoffeeShop.DAO.Abstract\\CoffeeShop.DAO.Abstract.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\azazellio\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\azazellio\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

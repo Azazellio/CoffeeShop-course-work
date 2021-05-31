@@ -1,0 +1,40 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CoffeeShop.BL.Impl\CoffeeShop.BL.Impl.csproj" />
+    <ProjectReference Include="..\CoffeeShop.DAL.Abstract\CoffeeShop.DAL.Abstract.csproj" />
+    <ProjectReference Include="..\CoffeeShop.DAL.Impl\CoffeeShop.DAL.Impl.csproj" />
+    <ProjectReference Include="..\CoffeeShop.DAO.Abstract\CoffeeShop.DAO.Abstract.csproj" />
+    <ProjectReference Include="..\CoffeeShop.DAO.Impl\CoffeeShop.DAO.Impl.csproj" />
+    <ProjectReference Include="..\CoffeeShop.Models\CoffeeShop.Models.csproj" />
+    <ProjectReference Include="..\CoffeeShop.ViewModel.Impl\CoffeeShop.ViewModel.Impl.csproj" />
+    <ProjectReference Include="..\CoffeeShop.ViewModels.Abstract\CoffeeShop.ViewModels.Abstract.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Pages\FindByDate.xaml.cs">
+      <DependentUpon>FindByDate.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Pages\FindByName.xaml.cs">
+      <DependentUpon>FindByName.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Page Update="Pages\FindByDate.xaml">
+      <SubType>Designer</SubType>
+      <Generator>XamlIntelliSenseFileGenerator</Generator>
+    </Page>
+    <Page Update="Pages\FindByName.xaml">
+      <SubType>Designer</SubType>
+      <Generator>XamlIntelliSenseFileGenerator</Generator>
+    </Page>
+  </ItemGroup>
+
+</Project>

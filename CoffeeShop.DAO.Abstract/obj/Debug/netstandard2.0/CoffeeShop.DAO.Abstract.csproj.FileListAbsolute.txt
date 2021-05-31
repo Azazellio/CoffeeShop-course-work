@@ -1,0 +1,17 @@
+C:\Users\Nazar\source\repos\CoffeeshopWPF\CoffeeShop.DAO.Abstract\bin\Debug\netstandard2.0\CoffeeShop.DAO.Abstract.deps.json
+C:\Users\Nazar\source\repos\CoffeeshopWPF\CoffeeShop.DAO.Abstract\bin\Debug\netstandard2.0\CoffeeShop.DAO.Abstract.dll
+C:\Users\Nazar\source\repos\CoffeeshopWPF\CoffeeShop.DAO.Abstract\bin\Debug\netstandard2.0\CoffeeShop.DAO.Abstract.pdb
+C:\Users\Nazar\source\repos\CoffeeshopWPF\CoffeeShop.DAO.Abstract\obj\Debug\netstandard2.0\CoffeeShop.DAO.Abstract.csproj.CoreCompileInputs.cache
+C:\Users\Nazar\source\repos\CoffeeshopWPF\CoffeeShop.DAO.Abstract\obj\Debug\netstandard2.0\CoffeeShop.DAO.Abstract.AssemblyInfoInputs.cache
+C:\Users\Nazar\source\repos\CoffeeshopWPF\CoffeeShop.DAO.Abstract\obj\Debug\netstandard2.0\CoffeeShop.DAO.Abstract.AssemblyInfo.cs
+C:\Users\Nazar\source\repos\CoffeeshopWPF\CoffeeShop.DAO.Abstract\obj\Debug\netstandard2.0\CoffeeShop.DAO.Abstract.dll
+C:\Users\Nazar\source\repos\CoffeeshopWPF\CoffeeShop.DAO.Abstract\obj\Debug\netstandard2.0\CoffeeShop.DAO.Abstract.pdb
+C:\Users\azazellio\Desktop\CoffeeShopMVVM-master\CoffeeShop.DAO.Abstract\bin\Debug\netstandard2.0\CoffeeShop.DAO.Abstract.deps.json
+C:\Users\azazellio\Desktop\CoffeeShopMVVM-master\CoffeeShop.DAO.Abstract\bin\Debug\netstandard2.0\CoffeeShop.DAO.Abstract.dll
+C:\Users\azazellio\Desktop\CoffeeShopMVVM-master\CoffeeShop.DAO.Abstract\bin\Debug\netstandard2.0\CoffeeShop.DAO.Abstract.pdb
+C:\Users\azazellio\Desktop\CoffeeShopMVVM-master\CoffeeShop.DAO.Abstract\obj\Debug\netstandard2.0\CoffeeShop.DAO.Abstract.csprojAssemblyReference.cache
+C:\Users\azazellio\Desktop\CoffeeShopMVVM-master\CoffeeShop.DAO.Abstract\obj\Debug\netstandard2.0\CoffeeShop.DAO.Abstract.AssemblyInfoInputs.cache
+C:\Users\azazellio\Desktop\CoffeeShopMVVM-master\CoffeeShop.DAO.Abstract\obj\Debug\netstandard2.0\CoffeeShop.DAO.Abstract.AssemblyInfo.cs
+C:\Users\azazellio\Desktop\CoffeeShopMVVM-master\CoffeeShop.DAO.Abstract\obj\Debug\netstandard2.0\CoffeeShop.DAO.Abstract.csproj.CoreCompileInputs.cache
+C:\Users\azazellio\Desktop\CoffeeShopMVVM-master\CoffeeShop.DAO.Abstract\obj\Debug\netstandard2.0\CoffeeShop.DAO.Abstract.dll
+C:\Users\azazellio\Desktop\CoffeeShopMVVM-master\CoffeeShop.DAO.Abstract\obj\Debug\netstandard2.0\CoffeeShop.DAO.Abstract.pdb

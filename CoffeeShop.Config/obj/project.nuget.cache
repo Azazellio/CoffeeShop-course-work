@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rjs47mjnlyJ/W23jOpN2by41A2g3kZM/OIwgrLOv82nexS7aaLj4qhTRMz6fxxTz05l8x+S5ZE2DKv/Kiep/JA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nazar\\source\\repos\\CoffeeshopWPF\\CoffeeShop.Config\\CoffeeShop.Config.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nazar\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Nazar\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

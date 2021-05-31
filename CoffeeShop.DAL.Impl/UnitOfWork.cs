@@ -32,55 +32,6 @@ namespace CoffeeShop.DAL.Impl
             //optionsBuilder.UseSqlServer(ConfigurationManager.AppSettings["connstr"]);
             this.context = new CoffeeShopAppContext(optionsBuilder.Options);
             this.context.Database.EnsureCreated();
-
-            //using (var c = this.context)
-            //{
-            //    var r1 = new MachineServesDAO() { MachineDAOId=6, DrinkDAOId=1, Count=3 };
-            //    var r2 = new MachineServesDAO() { MachineDAOId=6, DrinkDAOId=2, Count=4 };
-            //    var r3 = new MachineServesDAO() { MachineDAOId=6, DrinkDAOId=3, Count=2 };
-            //    var r4 = new MachineServesDAO() { MachineDAOId=6, DrinkDAOId=4, Count=0 };
-
-            //    var r5 = new MachineServesDAO() { MachineDAOId = 7, DrinkDAOId = 1, Count = 5 };
-            //    var r6 = new MachineServesDAO() { MachineDAOId = 7, DrinkDAOId = 2, Count = 6 };
-            //    var r7 = new MachineServesDAO() { MachineDAOId = 7, DrinkDAOId = 3, Count = 2 };
-            //    var r8 = new MachineServesDAO() { MachineDAOId = 7, DrinkDAOId = 4, Count = 1 };
-
-            //    var r9 = new MachineServesDAO() { MachineDAOId = 8, DrinkDAOId = 1, Count = 2 };
-            //    var r10 = new MachineServesDAO() { MachineDAOId = 8, DrinkDAOId = 2, Count = 2 };
-            //    var r11 = new MachineServesDAO() { MachineDAOId = 8, DrinkDAOId = 3, Count = 5 };
-            //    var r12 = new MachineServesDAO() { MachineDAOId = 8, DrinkDAOId = 4, Count = 8 };
-
-            //    var r13 = new MachineServesDAO() { MachineDAOId = 9, DrinkDAOId = 1, Count = 2 };
-            //    var r14 = new MachineServesDAO() { MachineDAOId = 9, DrinkDAOId = 2, Count = 0 };
-            //    var r15 = new MachineServesDAO() { MachineDAOId = 9, DrinkDAOId = 3, Count = 1 };
-            //    var r16 = new MachineServesDAO() { MachineDAOId = 9, DrinkDAOId = 4, Count = 5 };
-
-
-            //    c.MachineServesDAOs.Add(r1);
-            //    c.MachineServesDAOs.Add(r2);
-            //    c.MachineServesDAOs.Add(r3);
-            //    c.MachineServesDAOs.Add(r4);
-
-            //    c.MachineServesDAOs.Add(r5);
-            //    c.MachineServesDAOs.Add(r6);
-            //    c.MachineServesDAOs.Add(r7);
-            //    c.MachineServesDAOs.Add(r8);
-
-            //    c.MachineServesDAOs.Add(r9);
-            //    c.MachineServesDAOs.Add(r10);
-            //    c.MachineServesDAOs.Add(r11);
-            //    c.MachineServesDAOs.Add(r12);
-
-            //    c.MachineServesDAOs.Add(r13);
-            //    c.MachineServesDAOs.Add(r14);
-            //    c.MachineServesDAOs.Add(r15);
-            //    c.MachineServesDAOs.Add(r16);
-
-            //    c.SaveChanges();
-            //}
-
-
-
         }
 
         public List<MachineIngredientDAO> GetMachineIngredients()
